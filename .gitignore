@@ -14,3 +14,4 @@ media/js/*
 media/css/*.css
 errors/local.xml
 app/etc/local.xml
+.idea
